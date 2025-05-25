@@ -29,7 +29,7 @@ This project features an interactive HR analytics dashboard created using Tablea
 
 ## 🖼️ Preview
 
-![Dashboard Preview](dashboard.png)
+![Dashboard Preview](Tableau_Dashboard.png)
 
 ## 🚀 How to View the Dashboard
 
