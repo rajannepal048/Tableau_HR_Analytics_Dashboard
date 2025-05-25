@@ -4,8 +4,8 @@ This project features an interactive HR analytics dashboard created using Tablea
 
 ## 📁 Project Contents
 
-- `HR Analytics Dashboard.twbx` – The Tableau packaged workbook containing all the visualizations.
-- `dashboard.png` – A screenshot preview of the final dashboard.
+- `HR_Analytics_Dashboard.twbx` – The Tableau packaged workbook containing all the visualizations.
+- `Tableau_dashboard.png` – A screenshot preview of the final dashboard.
 - `README.md` – Documentation describing the project.
 
 ## 🎯 Project Objectives
